@@ -30,7 +30,7 @@ It may also be in [this Resource Dump I made over here](https://github.com/belou
 
 1.  [Nimbus for taking screenshots](https://nimbusweb.me/screenshot.php) Why type when you can send videos or screenshots
 2.  [OSINT browser extension](http://www.osintbrowser.com/)
-3.  [Bellingcat's Online Investigation Toolkit](/C:/Users/Alex/AppData/Local/Programs/Joplin/resources/app.asar/bit.ly/bcattools "bit.ly/bcattools")
+3.  [Bellingcat's Online Investigation Toolkit](bit.ly/bcattools)
 4.  [VPN Hub](https://www.vpnhub.com/) For lulz
 5.  [Maigret - Collect a dossier on a person by username from thousands of sites](https://github.com/ToR-0/maigret)
 6.  [Google Sheets query tool](https://github.com/oryon-osint/querytool)
