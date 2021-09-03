@@ -7,7 +7,7 @@ The Spreadsheets are excellent resources
 4.  [OSINT Professionals, Videos, a Start.me Page](https://start.me/p/xbEwoa/09-industry-professionals)
 5.  [OSINT FR - How to Begin](https://osintfr.com/en/how-to-begin-faq/)
 6. [Trace Labs OSINT Resources](https://www.tracelabs.org/resources/)
-7. Spreadsheet - [SET IN ON](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc) ![:fire:](:/24e07a28c2174e938e161d6d47c58740) [CHILD - OSINT for Finding People](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc) by CyberSecStu
+7. Spreadsheet - [SET IN ON FIRE CHILD](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc) [- OSINT for Finding People](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc) by CyberSecStu
 8. Spreadsheet - [CTI and OSINT Online resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw) by AaronCTI
 9. [Trace Labs Endorsed OSINT Training](https://www.tracelabs.org/supporters/partners)
 
