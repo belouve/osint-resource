@@ -11,6 +11,7 @@ It may also be in [this Resource Dump I made over here](https://github.com/belou
   
 1.  [Awesome OSINT](https://github.com/jivoi/awesome-osint/blob/master/README.md) Mentioned numerous times over the years, so check that out.    
 2.  [Sinwindie OSINT](https://github.com/sinwindie/OSINT)
+3.  [s0cm0nkeys OSINT/Passive Recon](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/osint-passive-recon)
     
 
 **Blogs and Guides**
