@@ -7,6 +7,9 @@ Currently under construction, so may be a mash of stuff
 These are also collections of maybe lesser known resources, so if there is a ZOMG, WHAI DID YOO FORGET THIS TOOL ?!?, it might be that it is a commonly known tool, but I'll get around to adding anything suggested.
 It may also be in [this Resource Dump I made over here](https://github.com/belouve/osint-resource/blob/main/resourcedump.md)
 
+**Collections**
+1.  Found a giant collection here : [META OSINT](https://metaosint.github.io/table/)
+
 **GitHub Projects**
   
 1.  [Awesome OSINT](https://github.com/jivoi/awesome-osint/blob/master/README.md) Mentioned numerous times over the years, so check that out.    
