@@ -9,6 +9,7 @@ It may also be in [this Resource Dump I made over here](https://github.com/belou
 
 **Collections**
 1.  Found a giant collection here : [META OSINT](https://metaosint.github.io/table/)
+2.  Another collection of GitHub Projects, might pull some featured ones out to specifically call out here: [FBI Tools](https://github.com/danieldurnea/FBI-tools)
 
 **GitHub Projects**
   
