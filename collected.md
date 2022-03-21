@@ -10,6 +10,7 @@ It may also be in [this Resource Dump I made over here](https://github.com/belou
 **Collections**
 1.  Found a giant collection here : [META OSINT](https://metaosint.github.io/table/)
 2.  Another collection of GitHub Projects, might pull some featured ones out to specifically call out here: [FBI Tools](https://github.com/danieldurnea/FBI-tools)
+3.  Another giant collection: [AirTable of OSINT Tools](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op)
 
 **GitHub Projects**
   
@@ -47,9 +48,10 @@ It may also be in [this Resource Dump I made over here](https://github.com/belou
 2.  [Cyber Investigator CTF - Wales](https://investigator.cybersoc.wales/)
 3.  [TryHackMe OSINT Writeup](https://debojyoti.medium.com/osint-writeup-tryhackme-kaffeesec-somesint-48e76207bc5d) Potential challenge spoilers!
 
-**ProTips**
+![ProTips](https://raw.githubusercontent.com/belouve/REDSHIRT/master/images/pro-tips.jpg "Pro Tips")
+                                                                           
 
-Sock Puppets
+## Sock Puppets
 
 - Create an IFTTT trigger for your fictitious social media files. Have your profile post something every time it is added to an RSS feed. News articles, whatever you want. The constant stream of activity will help prevent your account from becoming idle, and thus suspended for being suspicious.
 - Please only use these accounts for your own protection while gathering OSINT and do not use them for malicious purposes.
