@@ -32,6 +32,9 @@ It may also be in [this Resource Dump I made over here](https://github.com/belou
 9.  [Criminal intelligence: manual for analysts (see chapter 6: link analysis)](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf)
 10. [Regex and Google dorking: Supercharging Your Google Hacking](http://blog.k3170makan.com/2012/03/goodork-super-charging-your-google.html)
 
+**Cheat Sheets**
+1. [OSINT Cheat Sheets - derechodelared](https://derechodelared.com/osint-cheat-sheets/)
+
 **Tools**
 
 1.  [Nimbus for taking screenshots](https://nimbusweb.me/screenshot.php) Why type when you can send videos or screenshots
