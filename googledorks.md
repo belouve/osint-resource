@@ -19,13 +19,11 @@ This is very small right now.  But every journey begins with a single step.
 
 *I'll drop stuff here and then organize it maybe*
 
-1. 4500+ Google dorks in a list. #osint http://conzu.de/en/google-dork-liste-2018-conzu/  https://t.co/anM4zQ9XQF
+1. Offensive Security maintains the Google Hacking Database (GHDB) with over 300 pages of Google Dorks." https://rpst.page.link/CtK7
 
-2. Offensive Security maintains the Google Hacking Database (GHDB) with over 300 pages of Google Dorks." https://rpst.page.link/CtK7
+2. Faster Google Dorking: https://dorksearch.com/
 
-3. Faster Google Dorking: https://dorksearch.com/
-
-4.  Useful dorks for searching public S3 buckets:
+3.  Useful dorks for searching public S3 buckets:
 
 site:http://s3.amazonaws.com "company name"
 site:http://s3.amazonaws.com "confidential"
