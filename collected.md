@@ -11,12 +11,14 @@ It may also be in [this Resource Dump I made over here](https://github.com/belou
 1.  Found a giant collection here : [META OSINT](https://metaosint.github.io/table/)
 2.  Another collection of GitHub Projects, might pull some featured ones out to specifically call out here: [FBI Tools](https://github.com/danieldurnea/FBI-tools)
 3.  Another giant collection: [AirTable of OSINT Tools](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op)
+4.  
 
 **GitHub Projects**
   
 1.  [Awesome OSINT](https://github.com/jivoi/awesome-osint/blob/master/README.md) Mentioned numerous times over the years, so check that out.    
 2.  [Sinwindie OSINT](https://github.com/sinwindie/OSINT)
 3.  [s0cm0nkeys OSINT/Passive Recon](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/osint-passive-recon)
+4.  Cypher387 's Collection of [Repositories](https://github.com/cipher387?tab=repositories)  This has Geolocation, Tools, Hastag Searches, Google Dorks...
     
 
 **Blogs and Guides**
@@ -31,6 +33,7 @@ It may also be in [this Resource Dump I made over here](https://github.com/belou
 8.  [Investigating Google Doc Owners](https://inteltechniques.com/blog/2021/03/21/investigating-google-doc-owners/)
 9.  [Criminal intelligence: manual for analysts (see chapter 6: link analysis)](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf)
 10. [Regex and Google dorking: Supercharging Your Google Hacking](http://blog.k3170makan.com/2012/03/goodork-super-charging-your-google.html)
+11. [5 Tips for when stuck in TraceLabs Search Parties](https://medium.com/@DigitalAndrew/5-tips-for-new-leads-in-trace-labs-search-party-5916f8d66cb7) I like the GoFundMe angle listed here.
 
 **Cheat Sheets**
 1. [OSINT Cheat Sheets - derechodelared](https://derechodelared.com/osint-cheat-sheets/)
